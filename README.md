@@ -1,1 +1,1 @@
-https://widgets.vendicated.dev/user?id=643038015437930498&theme=dark&banner=true&full-banner=false&rounded-corners=true&discord-icon=true&badges=true&guess-nitro=false
+[![Discord Presence](https://lanyard.cnrad.dev/api/643038015437930498)](https://discord.com/users/643038015437930498)
